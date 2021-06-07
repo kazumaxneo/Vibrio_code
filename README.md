@@ -1,1 +1,1 @@
-A collection of scripts and protocols for genome analysis of Vibrio 138-2 strain.
+A collection of scripts and protocols for genome analysis of V. sp. 138-2 and related Vibrio species.
