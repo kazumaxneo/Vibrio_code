@@ -4,7 +4,7 @@
     #extract 23S from "rRNAs.fa"
     seqkit grep -r -p ^16S rRNAs.fa > 16S
     
-2, Rename header.
+2, Do all versus all pairwise alignment  
     
     
     needleall 16S.fasta 16S.fasta out -gapopen 10.0 -gapextend 0.5 -aformat pair && perl extracct_best_hit.pl -i out -o identity_score
