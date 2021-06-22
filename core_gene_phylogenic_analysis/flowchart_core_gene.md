@@ -1,6 +1,6 @@
 1, Find core gene-set using orthoMCL algorithm of get homologues package
 
-    perl get_homologues.pl -d Vibrio_genome_dir/ -M -t 37 -e -n 12
+    perl get_homologues.pl -d Vibrio_genome_dir/ -M -t 33 -e -n 12
     
 2, Rename header
     
